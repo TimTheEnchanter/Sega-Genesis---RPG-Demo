@@ -1,0 +1,5 @@
+out/res/music.o: res/music.res \
+C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/choice4genesis/examples/demo-rpg/res/../project/opengameart\ -\ evil-laugh-2\ -\ evil_laugh_02.wav \
+C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/choice4genesis/examples/demo-rpg/res/../project/opengameart\ -\ 20-sword-sound-effects-attacks-and-clashes\ -\ sword_clash.1.wav \
+C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/choice4genesis/examples/demo-rpg/res/../project/opengameart\ -\ epic-boss-theme\ -\ helmet-tales-of-the-helmet_s-knight-18-boss-theme-ordmaer_-king-of-the-windymoon.wav \
+C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/choice4genesis/examples/demo-rpg/res/../project/opengameart\ -\ fireball-1\ -\ 105016__julien-matthey__jm-fx-fireball-01.wav

@@ -1,0 +1,4 @@
+WAV opengameart_epic_boss_theme_helmet_tales_of_the_helmet_s_knight_18_boss_theme_ordmaer__king_of_the_windymoon_wav "../project/opengameart - epic-boss-theme - helmet-tales-of-the-helmet_s-knight-18-boss-theme-ordmaer_-king-of-the-windymoon.wav" 2ADPCM
+WAV opengameart_20_sword_sound_effects_attacks_and_clashes_sword_clash_1_wav "../project/opengameart - 20-sword-sound-effects-attacks-and-clashes - sword_clash.1.wav" 2ADPCM
+WAV opengameart_fireball_1_105016__julien_matthey__jm_fx_fireball_01_wav "../project/opengameart - fireball-1 - 105016__julien-matthey__jm-fx-fireball-01.wav" 2ADPCM
+WAV opengameart_evil_laugh_2_evil_laugh_02_wav "../project/opengameart - evil-laugh-2 - evil_laugh_02.wav" 2ADPCM

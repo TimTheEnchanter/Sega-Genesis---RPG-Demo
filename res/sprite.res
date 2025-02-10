@@ -1,0 +1,1 @@
+SPRITE Cursor_sprite_png "../project/Cursor sprite.png" 1 1 NONE 3
