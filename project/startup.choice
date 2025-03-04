@@ -20,7 +20,15 @@ What do you want to do?
 
 #Proceed forward
     * background "bkg2.jpg"
+    Text should go here
+    * choice
+    #Knock on door
+
+    #Throw rock through window
+
+    #Climb the roof
 #Go to sleep
-    * background "sleep_bkg.jpg" 
+    * background "sleep_bkg.jpg"
+    Text should go here 
 #Skip to battle
     * goto_scene battle

@@ -9,6 +9,7 @@
 * create enemy_hp, 100
 * create player_hp, 100
 * create player_mp, 50
+* create defense, 1
 
 * background "lich.png"
 * music "opengameart - epic-boss-theme - helmet-tales-of-the-helmet_s-knight-18-boss-theme-ordmaer_-king-of-the-windymoon.wav", adpcm
@@ -35,7 +36,10 @@
 					* set player_mp, 0
 			* else
 				Sorry, not enough MP.
-
+		# Defend
+			You start defending yourself!
+			* set defense, 3
+		# Retreat
 	* sound "opengameart - evil-laugh-2 - evil_laugh_02.wav", adpcm
 	* native rollDice, 3, 6, into(randomValue)
 	The elder lich causes ${randomValue} of damage!
