@@ -1,9 +1,5 @@
 #ifndef _RES_MUSIC_H_
 #define _RES_MUSIC_H_
 
-extern const u8 opengameart_epic_boss_theme_helmet_tales_of_the_helmet_s_knight_18_boss_theme_ordmaer__king_of_the_windymoon_wav[3573376];
-extern const u8 opengameart_20_sword_sound_effects_attacks_and_clashes_sword_clash_1_wav[9856];
-extern const u8 opengameart_fireball_1_105016__julien_matthey__jm_fx_fireball_01_wav[21760];
-extern const u8 opengameart_evil_laugh_2_evil_laugh_02_wav[20608];
 
 #endif // _RES_MUSIC_H_

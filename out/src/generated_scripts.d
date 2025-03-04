@@ -35,4 +35,4 @@ out/src/generated_scripts.o: src/generated_scripts.c src/vn_engine.h \
  C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/sgdk170/inc/timer.h \
  C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/sgdk170/inc/task.h \
  C:/Users/James\ Parrott/Desktop/GameDev/Software/choice4genesis-0.14.4-standalone/sgdk170/inc/task_cst.h \
- res/gfx.h res/sprite.h res/music.h src/extra.h
+ res/gfx.h res/sprite.h res/music.h
