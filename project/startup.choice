@@ -18,17 +18,17 @@
 You are in a densely wooded forest. A long and narrow passage stretches out before you.
 What do you want to do?
 
-#Proceed forward
-    * background "bkg2.jpg"
-    Text should go here
-    * choice
-    #Knock on door
+    #Proceed forward
+        * background "bkg2.jpg"
+        Text should go here
+        * choice
+            #Knock on door
 
-    #Throw rock through window
+            #Throw rock through window
 
-    #Climb the roof
-#Go to sleep
-    * background "sleep_bkg.jpg"
-    Text should go here 
-#Skip to battle
-    * goto_scene battle
+            #Climb the roof
+    #Go to sleep
+        * background "sleep_bkg.jpg"
+        Text should go here 
+    #Skip to battle
+        * goto_scene battle
